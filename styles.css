@@ -12,3 +12,7 @@ h1, nav{
 .chat{
     color: white
 }
+
+.row1 {
+    box-shadow: 10px 0px 5px;
+  }
