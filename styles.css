@@ -1,0 +1,14 @@
+@import url('https://fonts.cdnfonts.com/css/product-sans');
+
+h1, nav{
+    font-family: 'Product Sans', sans-serif;
+}
+
+.row{
+    background: #181818;
+    box-shadow: 0px, 0px, 5px;
+}
+
+.chat{
+    color: white
+}
