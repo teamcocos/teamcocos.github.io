@@ -1,0 +1,49 @@
+@import url('https://fonts.cdnfonts.com/css/product-sans');
+
+h1, nav, p{
+    font-family: 'Product Sans', sans-serif;
+}
+
+.desktop{
+    text-align: center;
+    background-color: #181818;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+}
+
+.windows10{
+    color: #00B2FF;
+}
+
+.sub{
+    color: #F5f5fa;
+}
+
+.sub2{
+    color: white;
+    font-size: 19px;
+}
+
+.logo{
+        text-align: center;
+}
+
+.main{
+    text-align: center;
+    color: white;
+    background-color: #181818;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 340px;
+}
+
+.secondary{
+    text-align: center;
+    color: white;
+    background-color: #181818;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    height: 740px;
+}
+
+.ligma{
+    color: green;
+}
